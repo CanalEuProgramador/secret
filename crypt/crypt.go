@@ -32,9 +32,9 @@ func Encrypt(plaintext []byte, keyText string) string {
 	return base64.URLEncoding.EncodeToString(ciphertext)
 }
 
-func Decrypt(cryptoText string, keyText string) string {
+func Decrypt(cryptoText []byte, keyText string) string {
 	key := []byte(keyText)
-	ciphertext, _ := base64.URLEncoding.DecodeString(cryptoText)
+	ciphertext, _ := base64.URLEncoding.DecodeString(string(cryptoText))
 
 	block, err := aes.NewCipher(key)
 	if err != nil {
