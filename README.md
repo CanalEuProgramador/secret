@@ -2,9 +2,9 @@
 
 ### Secret
 
-O objetivo desse desafio é: construir, usando todo o conteúdo aprendido no curso, uma aplicação de linha de comando(CLI) capaz de criptografar todos os arquivos de um diretório. Semelhante no famoso [WannaCry](https://pt.wikipedia.org/wiki/WannaCry).
+O objetivo desse desafio é: construir, usando todo o conteúdo aprendido no curso, uma aplicação de linha de comando(CLI) capaz de criptografar e descriptografar todos os arquivos de um ou vários diretórios. Semelhante ao famoso [WannaCry](https://pt.wikipedia.org/wiki/WannaCry).
 
-Esse diretório contém toda a base necessária e uma **CLI** funcional, porém o código pode não conter as melhores praticas ensinadas e cabe a você reproduzir e/ou melhorar as funcionalidades da aplicação, modularizando e usando as melhores praticas para cada caso.
+Esse diretório contém toda a base necessária e uma **CLI** funcional, porém o código pode não conter as melhores práticas ensinadas e cabe a você reproduzir e/ou melhorar as funcionalidades da aplicação, modularizando e usando as melhores práticas para cada caso.
 
 **OBS:** Você pode reescrever toda a aplicação ou corrigir a existente. O que for melhor para o seu aprendizado.
 
@@ -12,4 +12,4 @@ Esse diretório contém toda a base necessária e uma **CLI** funcional, porém 
 
 ### Aaaaaah
 
-Não deixe de se inscrever no canal, compartilhar o curso e dar um star no repositório, essas são ótimas formas de apoiar nosso projeto e ajudar a alcançar mais e mais pessoas.
+Não deixe de se inscrever no [canal](https://www.youtube.com/euprogramadoroficial?sub_confirmation=1), compartilhar o curso e dar um star no repositório, essas são ótimas formas de apoiar nosso projeto e ajudar a alcançar mais e mais pessoas.
