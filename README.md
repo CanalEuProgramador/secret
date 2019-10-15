@@ -12,4 +12,4 @@ Esse diretório contém toda a base necessária e uma **CLI** funcional, porém 
 
 ### Aaaaaah
 
-Não deixe de se inscrever no [canal](https://www.youtube.com/euprogramadoroficial?sub_confirmation=1), compartilhar o curso e dar um star no repositório, essas são ótimas formas de apoiar nosso projeto e ajudar a alcançar mais e mais pessoas.
+Não deixe de se inscrever no [canal](https://www.youtube.com/channel/UC7c2c7E1L9xhCinShl8-iZA?sub_confirmation=1), compartilhar o curso e dar um star no repositório, essas são ótimas formas de apoiar nosso projeto e ajudar a alcançar mais e mais pessoas.
